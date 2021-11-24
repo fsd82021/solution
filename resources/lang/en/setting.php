@@ -1,0 +1,40 @@
+<?php
+
+return [
+    'slider'       => 'Slider',
+    'name'         => 'Name',
+    'desc'         => 'Description',
+    'image'        => 'Image',
+    'created_at'   => 'Created at',
+    'control'      => 'Controls',
+    'logo'         => 'Site Logo',
+    'certificate'  => 'Certificates',
+    'time'         => 'Company time',
+    'address'      => 'Address',
+    'phone'        => 'phone',
+    'email'        => 'Email',
+    'facebook'     => 'Facebook',
+    'twitter'      => 'Twitter',
+    'linkedin'     => 'Linked in',
+    'instagram'    => 'Instagram',
+    'website'      => 'Web site',
+    'whatsapp'     => 'Whatsapp',
+    'fax'          => 'Fax',
+    'start'        => 'Start date',
+    'client'       => 'Clients count',
+    'copyrights'   => 'Copy rights',
+    'logo_white'   => 'Logo white',
+    'po_box'       => 'P.O BOX',
+
+    'logo_required' => 'Image required',
+    'name_required_en' => 'English name Required',
+    'name_required_ar' => 'Arabic name Required',
+    'desc_required_en' => 'English description required',
+    'desc_required_ar' => 'Arabic description required',
+
+
+    'address_required_ar'          => 'Address required in arabic',
+    'address_required_en'          => 'Address required in english',
+    'working_times_required_ar'    => 'Working times required in arabic',
+    'working_times_required_en'    => 'Working times required in english',
+];
